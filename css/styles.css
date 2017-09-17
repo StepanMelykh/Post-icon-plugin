@@ -1,0 +1,19 @@
+.icon-wrap {
+	display: inline-block;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+.icon-wrap input {
+	position: relative;
+    left: -20px;
+}
+.icon-wrap .icon-color:before{
+	color: red;
+}
+.dashicons {
+	font-size: 30px;
+}
+#righ_position {
+	margin-left: 30px;
+}
